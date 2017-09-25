@@ -1,4 +1,5 @@
 # House-Prices-Predictions
+![alt text](https://github.com/iurigo/House-Prices-Predictions/blob/master/banner.jpg)
 
 
 ### Regression and classification with housing data
